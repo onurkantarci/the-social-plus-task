@@ -15,3 +15,11 @@ Follow these steps to run the project:
    ```bash
    npm run dev
    ```
+
+## App screenshots
+
+### Users page
+![image](https://github.com/user-attachments/assets/e8b3fb1f-a67d-4c2e-b7d4-2fa85a11593c)
+
+### User posts page
+![image](https://github.com/user-attachments/assets/6accee21-7fcf-49d6-bbac-ea6afffbb5d3)
