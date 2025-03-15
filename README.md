@@ -1,5 +1,9 @@
 # Social plus task
 
+
+## Technologies used:
+- Typescript, Vite, React, Tailwind, ShadCN (as UI Library), Zustand (State management)
+
 ## Running the Project
 
 Follow these steps to run the project:
